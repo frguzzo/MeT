@@ -1,1 +1,2 @@
 # MeT
+esercitazione seconda lezione
